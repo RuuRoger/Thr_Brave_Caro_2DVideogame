@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Key
+  - Treasure
+  - DoorLevel
+  - Bomb
+  - Canon
+  - Slide Platform
+  - Spike
+  - Stone
+  - WallRockLeft
+  - WallRockRight
+  - Trigger1
+  - Second Special Tag
+  - Platform
+  - Pill
+  - Pill1
+  - Pill2
+  - Pill3
+  - Pill4
+  - Respawn Point
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Grass
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default
