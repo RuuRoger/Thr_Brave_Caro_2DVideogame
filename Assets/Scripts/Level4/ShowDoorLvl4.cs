@@ -8,11 +8,7 @@ public class ShowDoorLvl4 : MonoBehaviour
 
     #region Methods
 
-    private void ShowDoorFinalLevelLvl4()
-    {
-        this.gameObject.SetActive(true);
-        _nextlevel.enabled = true;
-    }
+    private void ShowDoorFinalLevelLvl4() => this.gameObject.SetActive(true);
 
     #endregion
 
@@ -22,16 +18,6 @@ public class ShowDoorLvl4 : MonoBehaviour
     {
         GameManager.OnGameManagerShowDoor += ShowDoorFinalLevelLvl4;
         this.gameObject.SetActive(false);
-    }
-
-    private void Start()
-    {
-
-        if (SceneManager.GetActiveScene().name == "Level4")
-            _nextlevel = gameObject.GetComponent<StartLevel5>();
-        if (SceneManager.GetActiveScene().name == "Level5")
-            _nextlevel = gameObject.GetComponent<StartLevel6>();
-
     }
 
     private void OnDestroy()
