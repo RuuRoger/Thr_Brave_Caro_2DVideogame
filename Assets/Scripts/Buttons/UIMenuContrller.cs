@@ -3,7 +3,8 @@ using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;
 using System;
-using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
+
 
 public class UIMenuContrller : MonoBehaviour
 {
@@ -25,6 +26,9 @@ public class UIMenuContrller : MonoBehaviour
     #endregion
 
     #region Method
+
+    private void StartGame() => SceneManager.LoadScene("Level1");
+  
     private void ClickOptionsButton()
     {
         //Diseable buttons in menu
@@ -107,6 +111,7 @@ public class UIMenuContrller : MonoBehaviour
     #region Unity Callbacks
     private void Start()
     {
+        _startButtonObjcet.GetComponent<Button>().onClick.AddListener(StartGame);
         this.gameObject.GetComponent<Button>().onClick.AddListener(ClickOptionsButton);
         _exitButtonObject.GetComponent<Button>().onClick.AddListener(ExitGame);
         _qualityDrop.onValueChanged.AddListener(SetQuality);
