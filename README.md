@@ -4,6 +4,8 @@ A captivating **2D platformer** where players take on the role of a **small but 
 
 Developed with **Unity**, this project aims to deliver a fun and challenging experience, combining classic platforming mechanics with a charming visual style.
 
+![Videogame](Assets\Videos\The_Bave_caro_Demo.gif)
+
 ---
 
 ## About the Game
