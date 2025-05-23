@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d7c29824640e70440b70beca5cea96cc
+guid: 4a4ec23abcf4f5043aa482cbbfae1db6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2936805495371158746
-    second: Letras estilo pixel art con el texto _The Brave Caro__0
+      213: -1562222194914616598
+    second: Juqs_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,13 +126,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Letras estilo pixel art con el texto _The Brave Caro__0
+      name: Juqs_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 1024
+        width: 400
+        height: 400
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ad45306c901a1c820800000000000000
-      internalID: 2936805495371158746
+      spriteID: aea12e3d03fd15ae0800000000000000
+      internalID: -1562222194914616598
       vertices: []
       indices: 
       edges: []
@@ -161,7 +161,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Letras estilo pixel art con el texto _The Brave Caro__0: 2936805495371158746
+      Juqs_0: -1562222194914616598
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

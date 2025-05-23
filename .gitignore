@@ -33,7 +33,7 @@
 # Ignora el archivo vsconfig
 vsconfig
 # Ignora la carpeta Packages y sus subcarpetas.
-/[Pp]ackages/
+/[Pp]Packages/
 
 # Gradle cache directory
 .gradle/
