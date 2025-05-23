@@ -26,6 +26,9 @@
 
 # Visual Studio cache directory
 .vs/
+**/.vscode/ # Añade esta línea para ignorar la carpeta .vscode completa
+vsconfig    # Añade esta línea para ignorar el archivo vsconfig
+/[Pp]ackages/ # Añade esta línea para ignorar la carpeta .Packages
 
 # Gradle cache directory
 .gradle/
