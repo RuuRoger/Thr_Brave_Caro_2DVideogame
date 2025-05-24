@@ -10,7 +10,7 @@ Developed with **Unity**, this project aims to deliver a fun and challenging exp
 
 ## About the Game
 
-Dive into the whimsical world of *THE BRAVE CARO*! This game puts your platforming skills to the test as you navigate a series of vibrant environments, overcoming obstacles, solving simple puzzles, and discovering the secrets hidden within each stage. Our little mushroom hero is counting on you to help it overcome every challenge and reach the end of its adventure.
+Dive into the whimsical world of *THE BRAVE CARO*. This game puts your platforming skills to the test as you navigate a series of vibrant environments, overcoming obstacles, solving simple puzzles, and discovering the secrets hidden within each stage. Our little mushroom hero is counting on you to help it overcome every challenge and reach the end of its adventure.
 
 ---
 
