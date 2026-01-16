@@ -29,7 +29,4 @@ Dive into the whimsical world of *THE BRAVE CARO*. This game puts your platformi
 
 ## Technologies Used
 
-* **Unity** (Game Engine)
 * **Unity Version:** 6000.0.35f1
-* **C#**
-* **Visual Studio / VS Code** (IDE)
